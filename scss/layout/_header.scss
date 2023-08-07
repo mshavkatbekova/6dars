@@ -1,0 +1,20 @@
+.header__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 6.4rem;
+  padding-top: 6.4rem;
+}
+
+.site-logo .site-logo__image {
+  border-radius: 0;
+}
+
+.site-logo:hover {
+  opacity: 0.8;
+}
+
+.site-logo:active {
+  opacity: 0.6;
+}
+
